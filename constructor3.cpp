@@ -56,6 +56,7 @@ void DEPOSITE :: display(void)
 
 
 }
+// main function here 
 int main()
 {
     system("cls");
