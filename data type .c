@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+//int function  
+
 int main()
 {
     char c;
