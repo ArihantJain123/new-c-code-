@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 using namespace std;
-//class define here for 
+//class define here for here 
 
 class DEPOSITE {
     long int principal;
